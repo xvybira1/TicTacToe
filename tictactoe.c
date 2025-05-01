@@ -1,5 +1,3 @@
-//This is a tic tac toe game written in C designed for beginners
-//(This doesn't contain the use of pointers or other more advanced C topics)
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
